@@ -85,7 +85,7 @@ html,body{
     align-items: center;
 }
 .false {
-    width: 2.2rem;
+    width: 2.7rem;
     height: 0.22rem;
     /*background: black;*/
     color: #ff0c3a;
@@ -93,6 +93,7 @@ html,body{
     text-align: center;
     display: flex;
     margin-top: -20px;
+    margin-left: 0.22rem;
 }
 .false img {
     width: 0.21rem;
